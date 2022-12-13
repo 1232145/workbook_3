@@ -1,0 +1,20 @@
+[
+    {
+        "username": "alice",
+        "student": 2,
+        "teacher": 0,
+        "subject": 1
+    },
+    {
+        "username": "bob",
+        "student": 0,
+        "teacher": 0,
+        "subject": 0
+    },
+    {
+        "username": "charlie",
+        "student": 0,
+        "teacher": 0,
+        "subject": 0
+    }
+]
